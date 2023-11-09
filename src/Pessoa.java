@@ -50,4 +50,8 @@ public class Pessoa {
     public void setAltura(double altura) {
         this.altura = altura;
     }
+    //metodos
+    public String sacar(){
+        return "Nao sei sacar!";
+    }
 }
